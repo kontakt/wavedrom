@@ -10,7 +10,7 @@ every diagram picture and build picture referencing to elements with specific id
 ### Drawing the skin
 
 Users can define their own skin in order to change the visual properties of the resulting timing diagram.
-The [http://inkscape.org/ Inkscape] editor can be used to draw the skin.
+The [Inkscape](http://inkscape.org/) editor can be used to draw the skin.
 
 See 
 [default.svg](https://github.com/drom/wavedrom/blob/master/unpacked/skins/default.svg) and
